@@ -6,7 +6,7 @@ namespace CSLightPicturesN6
     {
         static void Main(string[] args)
         {
-            int picturesPerLine = 7;
+            int picturesPerLine = 3;
             int totalCountOfPictures = 52;
             int countFilledRows = totalCountOfPictures / picturesPerLine;
             int extraCountPictures = totalCountOfPictures % picturesPerLine;
